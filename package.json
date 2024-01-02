@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aman-Dubey.github.io/temp",
+  "homepage": "https://Aman-Dubey.github.io/temp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
