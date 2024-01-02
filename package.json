@@ -1,9 +1,9 @@
 {
+  "homepage": "https://Aman-Dubey.github.io/temp/",
   "name": "asa22468-github-io",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Aman-Dubey.github.io/temp/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
